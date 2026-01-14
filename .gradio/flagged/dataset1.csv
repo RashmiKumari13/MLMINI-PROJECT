@@ -1,0 +1,2 @@
+message,output,timestamp
+POWER,Error: This MultinomialNB instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.,2025-11-04 11:28:27.148631
